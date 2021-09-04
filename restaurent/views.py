@@ -13,7 +13,6 @@ def blogstandard(request):
     return render(request, 'blogstandard.html') 
 
 
-
 def contact(request):
     return render(request, 'contact.html') 
 
